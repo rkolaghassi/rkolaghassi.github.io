@@ -2,7 +2,7 @@
 title: "A Smart Posture Monitoring and Correction System for Wheelchair Users"
 collection: publications
 # permalink: /publication/sensors-22
-date: 2022-04-13
+date: 2019-07-26
 venue: 'Conference: International Conference of the Association of Advancement in Assistive Technology Europe (AAATE)'
 paperurl: 'http://rkolaghassi.github.io/files/AAATE-19.pdf'
 link: 'https://doi.org/10.3233/TAD-190004'
